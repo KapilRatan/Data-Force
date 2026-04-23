@@ -41,7 +41,7 @@ Applicable industries:
 
 ## 🔁 System Flow Diagram
 
-![System Architecture](images/Sys Arch.png)
+![System Architecture](images/SysArch.png)
 
 ---
 
