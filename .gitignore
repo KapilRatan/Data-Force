@@ -1,0 +1,58 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data folders (usually large, don't push)
+datasets/
+*.csv
+*.json
+
+# Model files (large ML files)
+models/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Node modules (for frontend)
+frontend/node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# MQTT simulator temp data (optional)
+mqtt-simulator/tmp/
+
+# Python cache folders in subdirs
+**/__pycache__/
