@@ -45,6 +45,19 @@ Applicable industries:
 
 ---
 
+## 🔁 System Flow Diagram
+
+![Zero Level DFD](images/dfd one.jpeg)
+
+---
+
+
+## 🔁 System Flow Diagram
+
+![One Level DFD](images/dfd one.jpeg)
+
+---
+
 ## 📂 Project Structure
 
 ```
